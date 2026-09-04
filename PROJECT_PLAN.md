@@ -50,8 +50,8 @@ Only the active step may be implemented. Do not begin a later step or phase unti
 ## Current scope
 
 **Active phase:** Phase 1 — Computer Vision Core
-**Active step:** Step 01 — Project Setup
-**Status:** NOT STARTED
+**Most recently completed step:** Step 01 — Project Setup & Environment
+**Status:** COMPLETED — awaiting explicit authorization for Step 02
 
 ## Explicit deferrals
 

@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.Python
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating-system files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Generated local project data and artifacts
+data/employees/*
+!data/employees/.gitkeep
+data/face_samples/*
+!data/face_samples/.gitkeep
+data/embeddings/*
+!data/embeddings/.gitkeep
+data/logs/*
+!data/logs/.gitkeep
+models/*
+!models/.gitkeep
+reports/*
+!reports/.gitkeep
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp

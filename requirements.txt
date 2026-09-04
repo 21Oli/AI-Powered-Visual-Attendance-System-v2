@@ -1,0 +1,4 @@
+# Phase 1, Step 01 foundation dependencies only.
+# Add dependencies only in the roadmap step that requires them.
+numpy>=2.1,<3
+opencv-python>=4.10,<5

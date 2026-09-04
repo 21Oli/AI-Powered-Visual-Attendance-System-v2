@@ -39,6 +39,6 @@ Multiple employee face images
 
 ## Current implementation constraints
 
-- Step 01 has not begun; no application architecture has been created.
+- Step 01 — Project Setup & Environment is complete; no application architecture or behavior has been created.
 - Do not introduce database, API, dashboard, containerization, liveness, or attendance implementations before their scheduled phases or steps.
 - Design decisions made during Phase 1 must preserve clean separation between computer-vision concerns and later persistence, API, UI, security, and deployment layers.
